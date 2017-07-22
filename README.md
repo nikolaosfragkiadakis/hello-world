@@ -1,10 +1,6 @@
 # hello-world
 
-Hi, I'm Nikolas!
+Nikolaos Fragkiadakis
+Software Developer / IT Instructor.
 
-I'm Software Developer & IT Instructor.
-
-// CONTACT INFO
-// + 30 6984143263
-// info@nikolaosfragkiadakis.com
-// www.nikolaosfragkiadakis.com
++ 30 6984143263 | info@nikolaosfragkiadakis.com | www.nikolaosfragkiadakis.com
