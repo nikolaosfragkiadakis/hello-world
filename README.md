@@ -1,9 +1,10 @@
 # hello-world
 
-Hello Everyone!
+Hi, I'm Nikolas!
 
-Let me introduce myself.
+I'm Software Developer & IT Instructor.
 
-I am Nikolaos, ...
-
-This is my very first repository!
+// CONTACT INFO
+// + 30 6984143263
+// info@nikolaosfragkiadakis.com
+// www.nikolaosfragkiadakis.com
