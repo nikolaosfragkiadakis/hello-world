@@ -1,7 +1,7 @@
-# hello-world
+# Hello World #
 
 Nikolaos Fragkiadakis <br />
-Software Developer / IT Instructor <br /><br />
+Software Developer. IT Instructor. <br /><br />
 
 // CONTACT INFO <br />
 // + 30 6984143263 <br />
